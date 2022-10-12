@@ -1,4 +1,4 @@
 # Golang-api
 
 This repository was created for me to learn git
-simple crud api
+this file is simple crud api
